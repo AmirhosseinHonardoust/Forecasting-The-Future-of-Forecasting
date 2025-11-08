@@ -4,7 +4,7 @@ Forecasting once belonged to the quiet corners of analytics, an act of extrapola
 Today, forecasting is no longer a question of *what will happen*, but *what could happen, and what role do we play in shaping it?*
 
 The age of **passive prediction** is ending. The age of **interactive foresight** has begun.
-  
+   
 ---
 
 ## 1. The Physics of Prediction: From Certainty to Entropy
